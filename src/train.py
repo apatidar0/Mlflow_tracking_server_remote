@@ -32,7 +32,7 @@ mlflow.set_tracking_uri(
 # print("artifact store : ", mlflow.get_artifact_uri())
 
 # load data
-data = pd.read_csv("./../data/aug_train.csv")
+data = pd.read_csv("aug_train.csv")
 targets = data[["target"]]
 
 
