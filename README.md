@@ -129,8 +129,3 @@ By clicking on a specific run, you can see its artifacts uploaded to S3.
 In fact, these artifacts are effectively on S3.
 
 ![](./images/s3-console.png)
-
-### Slides
-
-- French [version](https://docs.google.com/presentation/d/1wAZnpVB9tINqZVrMP0Am3BwBgZrFRosgyIzhZ9p9In4/edit?usp=sharing)
-- English version (coming soon)
